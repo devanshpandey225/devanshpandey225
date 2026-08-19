@@ -1,4 +1,3 @@
-Absolutely. Here’s the complete README code, including the custom header section. I’ve kept it clean and professional while still giving it that dark, techy developer-profile feel.
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!--                    DEVANSH PANDEY • GITHUB                      -->
