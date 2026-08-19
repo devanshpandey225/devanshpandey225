@@ -1,24 +1,228 @@
-# 💫 About Me:
-Aspiring Software Developer | Java, C, C++, Advanced Java, DSA, DNS | LinkedIn Learning enthusiast | Problem Solver | Turning Logic into Real-World Solutions 
+Absolutely. Here’s the complete README code, including the custom header section. I’ve kept it clean and professional while still giving it that dark, techy developer-profile feel.
 
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                    DEVANSH PANDEY • GITHUB                      -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devansh___pandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshraj2) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/devansh___pandey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devansh__pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshpandey225@gmail.com) 
+DEVANSH PANDEY
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat-square&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devanshpandey225&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=devanshpandey225&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devanshpandey225&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Software Developer • Java Enthusiast • Problem Solver
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devanshpandey225&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+code.;Learning+%7C+Building+%7C+Debugging+%7C+Shipping.;Turning+logic+into+real-world+solutions.;Always+learning.+Always+building." alt="Typing SVG" />
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:111827,100:00F7FF&height=120&section=header" width="100%"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+⸻
 
----
-[![](https://komarev.com/ghpvc/?username=devanshpandey225&icon=0&color=0)](https://visitcount.itsvg.in)
+🧠 whoami
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   Devansh Pandey                                         │
+│   ────────────────────────────────────────────────────   │
+│                                                          │
+│   Role       → Aspiring Software Developer               │
+│   Focus      → Java • DSA • Backend • Cloud              │
+│   Mindset    → Learn • Build • Break • Fix • Repeat      │
+│   Status     → Currently building                        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+I don’t just write code — I turn problems into solutions.
+
+I’m a Computer Science student passionate about software development, Java, data structures, backend technologies and cloud computing.
+
+I enjoy understanding how things work, building projects from scratch, debugging problems and continuously improving my skills.
+
+⸻
+
+⚡ current_mood
+
+[ SYSTEM STATUS ]
+████████████████████████████████████████  ONLINE
+> Learning............. ✓
+> Building............. ✓
+> Debugging............ ✓
+> Exploring............ ✓
+> Improving............ ✓
+STATUS: IN BUILD MODE
+
+Deep work. Clean code. No excuses.
+
+⸻
+
+👨‍💻 about_me
+
+* 🎓 Computer Science student
+* ☕ Java enthusiast
+* 🧩 Passionate about DSA & problem solving
+* 🚀 Interested in backend & full-stack development
+* ☁️ Exploring AWS & cloud technologies
+* 🌱 Currently improving my Java + Spring ecosystem
+* 📚 LinkedIn Learning enthusiast
+* 🔧 I enjoy building, debugging and experimenting
+* 🎯 Goal: Build software that solves real-world problems
+
+⸻
+
+🛠️ tech_stack
+
+💻 Languages
+
+🚀 Backend & Frameworks
+
+🌐 Frontend
+
+☁️ Cloud & Dev Tools
+
+🗄️ Data & Other Technologies
+
+⸻
+
+🧠 currently_learning
+
+Java              ███████████████████░░   90%
+DSA               █████████████████░░░░   85%
+Spring Boot       ███████████████░░░░░░   75%
+Cloud / AWS       █████████████░░░░░░░░   65%
+JavaScript        ████████████░░░░░░░░░   60%
+React             ██████████░░░░░░░░░░░   50%
+
+Progress isn't linear. But I'm always moving forward.
+
+⸻
+
+🚀 developer_journey
+
+2023
+ │
+ ├── Started Programming
+ │
+ ▼
+2024
+ │
+ ├── C / C++
+ ├── Java
+ └── Data Structures & Algorithms
+ │
+ ▼
+2025
+ │
+ ├── Advanced Java
+ ├── Web Development
+ ├── Databases
+ └── Backend Development
+ │
+ ▼
+2026
+ │
+ ├── Spring Boot
+ ├── Cloud / AWS
+ ├── REST APIs
+ └── Real-world Projects
+ │
+ ▼
+∞
+ │
+ └── Keep Learning • Keep Building
+
+⸻
+
+🔭 what_im_exploring
+
+backend:
+  - Java
+  - Spring Boot
+  - REST APIs
+  - Hibernate / JPA
+computer_science:
+  - Data Structures
+  - Algorithms
+  - Object Oriented Programming
+  - DBMS
+  - Operating Systems
+  - Computer Networks
+cloud:
+  - AWS
+  - Google Cloud
+  - Cloudflare
+development:
+  - Git & GitHub
+  - API Development
+  - Full Stack Development
+  - System Design
+
+⸻
+
+📊 github_stats
+
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=devanshpandey225&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=devanshpandey225&theme=dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devanshpandey225&theme=dark&hide_border=true&layout=compact" height="170"/>
+</div>
+
+⸻
+
+🏆 github_trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=devanshpandey225&theme=darkhub&no-frame=true&no-bg=true&margin-w=6"/>
+</div>
+
+⸻
+
+📈 contribution_graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshpandey225&theme=github-compact&hide_border=true"/>
+</div>
+
+⸻
+
+🌐 connect_with_me
+
+<div align="center">
+<a href="https://linkedin.com/in/devanshraj2">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:devanshpandey225@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/devansh___pandey">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://x.com/devansh__pandey">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</div>
+
+⸻
+
+💭 random_dev_quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
+
+⸻
+
+<div align="center">
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║        BUILD  •  LEARN  •  BREAK  •  FIX          ║
+║                                                    ║
+║                    • REPEAT •                     ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+
+Thanks for visiting my profile 🚀
+
+<img src="https://komarev.com/ghpvc/?username=devanshpandey225&style=for-the-badge&color=blueviolet"/>
+<br>
+
+“Always learning. Always building.”
+
+</div>
