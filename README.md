@@ -39,8 +39,7 @@ I enjoy understanding how things work, building projects from scratch, debugging
 
 ⚡ current_mood
 
-[ SYSTEM STATUS ]
-████████████████████████████████████████  ONLINE
+         ONLINE
 > Learning............. ✓
 > Building............. ✓
 > Debugging............ ✓
